@@ -3,7 +3,7 @@ import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 // import { Link } from "react-router-dom";
 import { ScrollRestoration } from "react-router-dom";
-import projectmain from "../assets/Img/projectmain.jpg";
+import projectmain from "../assets/Img/projectMain.jpg";
 import ogun from "../assets/Img/ogun.jpg";
 import ogun1 from "../assets/Img/ogun2.jpg";
 import county from "../assets/Img/county.jpg";
@@ -321,3 +321,4 @@ const Project = () => {
 };
 
 export default Project;
+
