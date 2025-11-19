@@ -21,7 +21,7 @@ const Footer = () => {
             <br /> superior support and a seamless solar experience
           </p>
           <div className="mt-5 flex flex-wrap gap-3">
-            <a href="https://web.facebook.com/profile.php?id=61558190872395">
+            <a href="https://www.facebook.com/tega.ernest">
               {" "}
               <img
                 src={facebook}
@@ -29,7 +29,7 @@ const Footer = () => {
                 className="w-[2rem] border solid-black p-2 rounded-xl hover:bg-green-500 dark:bg-[#faf2f7]"
               />
             </a>
-            <a href="https://x.com/Neroks_Inc?t=0gd7gM66i2gw1ObDnrw4VA&s=08">
+            <a href="https://x.com/ErnestVieboro?t=wMApwlhrUm1z7UJZgQziJQ&s=09">
               {" "}
               <img
                 src={X}
@@ -38,7 +38,7 @@ const Footer = () => {
               />
             </a>
             <a
-              href="https://www.instagram.com/neroks_inc?igsh=MWFhdTQwc3Fwb2x0ag==
+              href="https://www.instagram.com/tegaernest?igsh=MXZpc2lnYXF3a2FiMQ==
 "
             >
               {" "}
@@ -49,7 +49,7 @@ const Footer = () => {
               />
             </a>
             <a
-              href="https://www.linkedin.com/company/neroks-inc/
+              href="https://www.linkedin.com/in/vieboro-ernest-71a8a038b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 "
             >
               {" "}
@@ -103,3 +103,4 @@ const Footer = () => {
 };
 
 export default Footer;
+
