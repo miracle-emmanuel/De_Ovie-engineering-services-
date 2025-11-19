@@ -28,7 +28,7 @@ const Home = () => {
               Green Future Today Powering a Sustainable Tomorrow
             </h1>
             <center>
-              <h1 className="px-4 text-[12px] sm:text-2xl md:text-2xl lg:text-2xl  text-black font-semi-bold text-center w-3/4 justify-center">
+              <h1 className="px-4 text-[12px] sm:text-2xl md:text-2xl lg:text-2xl  text-black font-bold text-center w-3/4 justify-center">
                 Climate change isn't coming- it's here. Transistioning to
                 sustainable energy isn't just a choice; it's a neccesity. We
                 believe in;
@@ -395,5 +395,6 @@ const Home = () => {
 };
 
 export default Home;
+
 
 
