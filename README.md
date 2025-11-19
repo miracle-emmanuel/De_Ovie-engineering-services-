@@ -5,7 +5,7 @@ This repository hosts the source code for the De Ovie Engineering Services compa
 
 | Aspect | Detail |
 |---|---|
-| Live Demo | https://de-ovie-engineering-services.vercel.app |
+| Live Demo | https://www.deovieengineeringservices.com.ng/ |
 | Frontend Framework | React (using modern functional components and hooks) |
 | Build Tool / Bundler | Vite (for lightning-fast development and optimized production builds) |
 | Styling | Tailwind CSS (for utility-first, rapid, and responsive design) |
