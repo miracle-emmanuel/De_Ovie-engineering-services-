@@ -52,4 +52,4 @@ The project is styled using Tailwind CSS. Configuration files are available in:
  * Vercel Configuration: Deployment settings for the Vercel platform are defined in vercel.json.
 
 ☁️ Deployment
-This project is configured for deployment on Vercel. Any push to the main branch is automatically built and deployed to the live URL: https://de-ovie-engineering-services.vercel.app.
+This project is configured for deployment on Vercel. Any push to the main branch is automatically built and deployed to the live URL: https://www.deovieengineeringservices.com.ng/.
