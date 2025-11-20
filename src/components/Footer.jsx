@@ -7,6 +7,7 @@ import LinkedIN from "../assets/Img/linkedin-logo.png";
 import map from "../assets/Img/location-pin.png";
 import mail from "../assets/Img/mail.png";
 import intagram from "../assets/Img/instagram.png";
+import tiktok from "../assets/Img/tiktok.svg";
 import { Link } from "react-router-dom";
 
 const Footer = () => {
@@ -33,6 +34,14 @@ const Footer = () => {
               {" "}
               <img
                 src={X}
+                alt=""
+                className="w-[2rem] border solid-black p-2 rounded-xl hover:bg-green-500 dark:bg-[#faf2f7]"
+              />
+            </a>
+            <a href="https://www.tiktok.com/@engr_ernest_vieboro?_r=1&_t=ZS-917cB4u0PrD">
+              {" "}
+              <img
+                src={tiktok}
                 alt=""
                 className="w-[2rem] border solid-black p-2 rounded-xl hover:bg-green-500 dark:bg-[#faf2f7]"
               />
@@ -103,4 +112,5 @@ const Footer = () => {
 };
 
 export default Footer;
+
 
