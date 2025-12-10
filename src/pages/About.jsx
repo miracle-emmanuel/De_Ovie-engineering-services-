@@ -192,7 +192,7 @@ const About = () => {
                 className="w-[15rem] sm:w-[15rem] md:w-[15rem] lg:w-[15rem] rounded-t-2xl"
               />
               <div className="grid m-8 ">
-                <h1 className="text-1xl font-bold">Vieboro Enerst</h1>
+                <h1 className="text-1xl font-bold">Vieboro Ernest</h1>
                 <p className="text-green-500">MD/CEO</p>
               </div>
             </li>
@@ -240,3 +240,4 @@ const About = () => {
 };
 
 export default About;
+
