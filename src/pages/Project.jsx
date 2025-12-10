@@ -37,7 +37,7 @@ const Project = () => {
             </h1>
             <p className="">
               Welcome to De ovie enginnering Services project page, where we
-              showcase few of our major oustading services we have rendered.
+              showcase few of our major outstanding services we have rendered.
               Our portfolio spans a diverse range of residential and commercial
               spaces, each crafted with meticulous attention to details and a
               passion for innovation.
@@ -321,4 +321,5 @@ const Project = () => {
 };
 
 export default Project;
+
 
