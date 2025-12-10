@@ -61,7 +61,7 @@ const Services = () => {
                 />
                 <h1 className="text-2xl font-thin">Energy Efficiency Audit</h1>
                 <p>
-                  Not sure what you need? Our solar enginners will assess your
+                  Not sure what you need? Our solar engineers will assess your
                   power need and deliver efficient tailored system design.
                 </p>
                 <a href="https://wa.me/2348078586792">
@@ -84,7 +84,7 @@ const Services = () => {
                 />
                 <h1 className="text-2xl font-thin">Custom solar Solution</h1>
                 <p>
-                  Provide customized solar and inverter olution for homes,
+                  Provide customized solar and inverter solution for homes,
                   bussiness, and industries, with a focus on high quality
                   panels.{" "}
                 </p>
@@ -111,7 +111,7 @@ const Services = () => {
                 </h1>
                 <p>
                   Get expert maintaince from certified technicians and onging
-                  suppoet to ensure peak performance from your safty year round.{" "}
+                  support to ensure peak performance from your safty year round.{" "}
                 </p>
                 <a href="https://wa.me/2348078586792">
                   <div className=" bg-green-300 rounded-full relative top-3 p-2  sm:text-[15px] text-1xl w-fit font-light flex gap-4">
@@ -179,3 +179,4 @@ const Services = () => {
 };
 
 export default Services;
+
